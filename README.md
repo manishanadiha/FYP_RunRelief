@@ -1,1 +1,3 @@
 # FYP_RunRelief
+
+Run Relief is a resource distribution system post-disaster which was developed as part of my final year project. This mobile application utilizes an intelligent algorithm called Genetic Algorithm to allocate resources based on factors including income, number of dependents, senior citizen status and disabilities, prioritizing distribution to those most in need. The application also enables an organization to access information on current and past relief operations of other organizations, fostering coordination and strategic planning of resource distribution. The system was developed with the objective to streamline the process of providing and receiving resources, benefitting both organizations and affected populations.
