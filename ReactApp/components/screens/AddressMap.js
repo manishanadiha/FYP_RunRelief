@@ -50,7 +50,7 @@ const AddressSelectionScreen = ({ navigation }) => {
         fetchDetails={true} 
         onPress={(data, details = null) => handlePlaceSelect(data, details)}
         query={{
-          key: 'AIzaSyAMNl74ofAqRXXEsKB0ciNrW8gyKzREUfM',
+          key: 'aabbccddee',
           language: 'en',
         }}
         styles={{
